@@ -12,8 +12,6 @@
 
 *发挥你的创造力通过各种途径让妹子看到它
 
-这是我为给妹子部署的：
-
 <img src="qrcode.png" width="200">
 
-设计稿PSD下载地址：<a href="http://pan.baidu.com/s/1gdw3lEr" target="_blank">[下载]</a>
+小改了一下！
